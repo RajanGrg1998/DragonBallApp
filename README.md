@@ -106,7 +106,4 @@ Here are some screenshots of the application:
     <td><img src="./assets/demo-mobile-fragment-1.png"/></td>
     <td><img src="./assets/demo-mobile-fragment-2.png"/></td>
   </tr>
-  <tr>
-    <td colspan="2"><img src="./assets/fragment-lifecycle-log.png"/></td>
-  </tr>
 </table>
